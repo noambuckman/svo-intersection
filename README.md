@@ -8,11 +8,10 @@ Email:  nbuckman@mit.edu
 
 Affiliation:  MIT CSAIL
 
-![Simulation Screenshot](https://www.dropbox.com/s/z8a7dolcf80kpbt/sim_withsvo_v1.png?dl=0)
+## Screenshot:
+<img src="imgs/annotated_screenshot.png" width="300" height="300">
 
-
-## Video:
-https://www.youtube.com/watch?v=qyNmG0cfX14&feature=youtu.be
+## Video: TODO
 
 # Repo Structure
 scripts:  
